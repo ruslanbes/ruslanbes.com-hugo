@@ -19,3 +19,11 @@ p.meta a:hover,
 p.meta a:focus {
   color: $primary;
 }
+
+blockquote {
+  font-style: normal;
+  border-left: 4px solid #CCC;
+  padding-left: $font-size-base;
+  background-color: $highlight;
+  color:#444;
+}

@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Hyas"
+title = "Besides"
 titleSeparator = "-"
-titleAddition = "Modern Hugo Starter"
-description = "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "programming and psychology"
+description = "Besides "
 
 ## Open Graph
 images = ["hyas.png"]

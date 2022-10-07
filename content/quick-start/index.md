@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-How to start a new Hyas project — one pager.
+How to start a new Hyas project — one pager. Chnaged content
 
 ## Requirements
 
