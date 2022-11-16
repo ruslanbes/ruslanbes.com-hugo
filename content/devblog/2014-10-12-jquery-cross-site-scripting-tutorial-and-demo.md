@@ -2,6 +2,7 @@
 title: Cross-Domain AJAX tutorial and demo
 author: Ruslan Bes
 type: post
+draft: true
 date: 2014-10-12T11:28:20+00:00
 url: /2014/10/12/jquery-cross-site-scripting-tutorial-and-demo/
 dsq_thread_id:
