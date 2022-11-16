@@ -1,20 +1,17 @@
 ---
-title: 'Passing AZ-304 Microsoft Azure Architect Design'
-date: '2021-04-29T20:18:03+02:00'
-status: publish
-permalink: /2021/04/29/passing-az-304-microsoft-azure-architect-design
-author: 'Ruslan Bes'
-excerpt: ''
+title: Passing AZ-304 Microsoft Azure Architect Design
+author: Ruslan Bes
 type: post
-id: 2225
-thumbnail: ../../../../uploads/2021/04/EXAM-Expert-AZ-304-600x600-1.png
-category:
-    - Learning
-tag:
-    - Azure
-post_format: []
+date: 2021-04-29T18:18:03+00:00
+url: /2021/04/29/passing-az-304-microsoft-azure-architect-design/
+featured_image: /rbes-content/uploads/2021/04/EXAM-Expert-AZ-304-600x600-1.png
 classic-editor-remember:
-    - block-editor
+  - block-editor
+categories:
+  - Learning
+tags:
+  - Azure
+
 ---
 This is the second exam if you want to achieve the **Azure Solutions Architect Expert** certification. I already explained my thoughts about the AZ-303 [here](https://devblog.ruslanbes.com/2021/02/18/passing-az-303-microsoft-azure-architect-technologies-exam/).
 

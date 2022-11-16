@@ -1,20 +1,17 @@
 ---
-title: 'My top 10 from "1 on 1 Meeting Questions"'
-date: '2021-05-01T22:01:16+02:00'
-status: publish
-permalink: /2021/05/01/my-top-10-from-1-on-1-meeting-questions
-author: 'Ruslan Bes'
-excerpt: ''
+title: My top 10 from 1 on 1 Meeting Questions
+author: Ruslan Bes
 type: post
-id: 2216
-category:
-    - 'Software engineering'
-tag:
-    - managment
-    - 'soft skills'
-post_format: []
+date: 2021-05-01T20:01:16+00:00
+url: /2021/05/01/my-top-10-from-1-on-1-meeting-questions/
 classic-editor-remember:
-    - block-editor
+  - block-editor
+categories:
+  - Software engineering
+tags:
+  - managment
+  - soft skills
+
 ---
 If you are a manager of any kind, save [this list of 1-on-1 Meeting Questions](https://github.com/VGraupera/1on1-questions). This will definitely save a bit of your brain power when you most likely need it. Pretty sure you can get a meaningful conversation by selecting these questions at random, but it would be better to build the question list in advance. Especially because some of the questions in the list [are really dumb](https://devblog.ruslanbes.com/2017/04/30/where-do-you-see-yourself-in-five-years/).
 

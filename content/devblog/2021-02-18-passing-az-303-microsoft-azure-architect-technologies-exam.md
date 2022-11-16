@@ -1,20 +1,17 @@
 ---
-title: 'Passing AZ-303 Microsoft Azure Architect Technologies Exam'
-date: '2021-02-18T23:16:54+02:00'
-status: publish
-permalink: /2021/02/18/passing-az-303-microsoft-azure-architect-technologies-exam
-author: 'Ruslan Bes'
-excerpt: ''
+title: Passing AZ-303 Microsoft Azure Architect Technologies Exam
+author: Ruslan Bes
 type: post
-id: 2137
-thumbnail: ../../../../uploads/2021/02/EXAM-Expert-AZ-303-600x600-1.png
-category:
-    - Learning
-tag:
-    - Azure
-post_format: []
+date: 2021-02-18T21:16:54+00:00
+url: /2021/02/18/passing-az-303-microsoft-azure-architect-technologies-exam/
+featured_image: /rbes-content/uploads/2021/02/EXAM-Expert-AZ-303-600x600-1.png
 classic-editor-remember:
-    - block-editor
+  - block-editor
+categories:
+  - Learning
+tags:
+  - Azure
+
 ---
 Many thanks from me to Netconomy for sponsoring and encouraging me to pass the AZ-303 Azure Certification Exam.
 

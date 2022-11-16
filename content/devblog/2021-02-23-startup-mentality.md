@@ -1,18 +1,14 @@
 ---
-title: 'Startup mentality'
-date: '2021-02-23T14:04:39+02:00'
-status: publish
-permalink: /2021/02/23/startup-mentality
-author: 'Ruslan Bes'
-excerpt: ''
+title: Startup mentality
+author: Ruslan Bes
 type: post
-id: 2147
-category:
-    - 'Software engineering'
-tag: []
-post_format: []
+date: 2021-02-23T12:04:39+00:00
+url: /2021/02/23/startup-mentality/
 classic-editor-remember:
-    - block-editor
+  - block-editor
+categories:
+  - Software engineering
+
 ---
 There was a characteristic talk at [one of last Stackoverflow Poscasts](https://stackoverflow.blog/2021/02/12/podcast-312-were-building-a-web-app-got-any-advice/).
 
